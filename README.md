@@ -30,6 +30,7 @@ A robust, command-line software application built entirely in Java. This project
 * **Data Structures:** HashMaps, HashSets, ArrayLists, Arrays
 
 ## 🏃 How To Run
+> ⚠️ **Note:** Ensure the provided sample input text files (e.g., credentials and test banks) remain in the root directory alongside the source code, as the application dynamically parses them upon launch.
 
 To compile and run this application correctly with its package structure, choose one of the following methods depending on where you are inside your terminal:
 
